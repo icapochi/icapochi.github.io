@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333; /* Dark gray text */
+}
+
+.container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff; /* White background for main content */
+  border-radius: 8px;
+}
+
+.header, .footer {
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: #007bff; /* Blue header and footer */
+  color: #fff; /* White text */
+}
+
+.section, .extracurriculars, .technical-skills {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f8f9fa; /* Light gray for section content */
+  border-radius: 8px;
+}
+
+.home-content {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f8f9fa; /* Light gray for home content */
+  border-radius: 8px;
+}
+
+.section-item {
+  margin-bottom: 15px;
+}
+
+.technical-skills li {
+  list-style-type: none;
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd; /* Gray border between technical skills */
+}
+
+.navbar {
+  background-color: #343a40; /* Dark gray navbar */
+}
+
+.navbar-link {
+  color: #fff; /* White navbar text */
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-link:hover {
+  color: #007bff; /* Blue hover color */
+}
+
+.link {
+  color: #007bff; /* Blue link color */
+}
+
+.link:hover {
+  color: #0056b3; /* Darker blue hover color */
+}
